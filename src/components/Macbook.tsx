@@ -175,7 +175,7 @@ export const Lid = ({
                 >
                     <span className="text-white">
                         <img
-                            src="/images/hero.png"
+                            src="/images/my-pic.png"
                             alt="Asim Arabzai"
                             className="h-48 w-auto"
                         />
@@ -677,7 +677,7 @@ export const OptionKey = ({ className }: { className: string }) => {
 const AceternityLogo = () => {
     return (
         <img
-            src="/images/hero.png"
+            src="/images/my-pic.png"
             alt="Asim Arabzai"
             className="h-48 w-auto"
         />
